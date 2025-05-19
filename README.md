@@ -35,7 +35,9 @@ To run this project locally:
 
    * Open `flapy bird.exe`
    * *Play* the game
-
+     
+3. **Close the game**
+   * If you have troble to close the programe just close it by hit the windows button at windows OS and close programe
 ---
 
 ## 📸 Screenshots
