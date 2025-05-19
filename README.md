@@ -31,15 +31,10 @@ To run this project locally:
    ```bash
    git clone https://github.com/yourusername/flappy-bird-unity.git
 
-2. **Open the project in Unity**
+2. **Play the game**
 
-   * Launch Unity Hub
-   * Click on *"Open Project"* and navigate to the cloned folder
-
-3. **Play the game**
-
-   * Open `MainScene`
-   * Click the *Play* button in the Unity Editor
+   * Open `flapy bird.exe`
+   * *Play* the game
 
 ---
 
